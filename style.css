@@ -1,0 +1,43 @@
+body {
+text-align: center;
+background-color: rgb(255, 252, 252);
+
+
+}
+h1 {
+    
+    margin-top: 0%;
+    text-align: center;
+    color: rgb(6, 7, 89);
+}
+
+#email{
+   margin-left: 64px;
+}
+
+#senha{
+    margin-left: 60px;
+}
+
+#nas{
+    margin-right: 86px;
+}
+
+#cel{
+    margin-left: 50px;
+}
+
+button{
+    margin-left: 80%;
+    margin-top: 04%;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+fieldset{
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 20px;
+    border-color: rgb(71, 10, 240);
+    border-style: double;
+}
